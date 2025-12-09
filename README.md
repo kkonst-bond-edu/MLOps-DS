@@ -1,5 +1,5 @@
 # MLOps-DS
-Here I added test to a DS notebook
+Here I added tests to a DS notebook
 
 [![Python application test with Github Actions](https://github.com/kkonst-bond-edu/MLOps-DS/actions/workflows/main.yml/badge.svg)](https://github.com/kkonst-bond-edu/MLOps-DS/actions/workflows/main.yml)
 
